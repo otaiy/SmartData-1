@@ -1,3 +1,6 @@
+"
+This is a source package
+"
 Class {
 	#name : #SMDSource,
 	#superclass : #Object,
