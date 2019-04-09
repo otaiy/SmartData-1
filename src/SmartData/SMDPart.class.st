@@ -1,3 +1,6 @@
+"
+I am part of an object
+"
 Class {
 	#name : #SMDPart,
 	#superclass : #Object,
